@@ -5,7 +5,8 @@ Create your own online shop and expand your business by reaching millions of peo
 
 # SnapShots
 
-<img src="https://user-images.githubusercontent.com/68644104/88424522-4b35ca80-ce0b-11ea-96ea-23fcb11e3b85.jpg" width="180" /> <img src="https://user-images.githubusercontent.com/68644104/88424550-5557c900-ce0b-11ea-9a66-fe56c37585f0.jpg" width="180" />
+<img src="https://user-images.githubusercontent.com/68644104/88424522-4b35ca80-ce0b-11ea-96ea-23fcb11e3b85.jpg" width="180" />
+<img src="https://user-images.githubusercontent.com/68644104/88424550-5557c900-ce0b-11ea-9a66-fe56c37585f0.jpg" width="180" />
 <img src="https://user-images.githubusercontent.com/68644104/88424568-5c7ed700-ce0b-11ea-952f-e612c04db75f.jpg" width="180" />
 <img src="https://user-images.githubusercontent.com/68644104/88424572-61438b00-ce0b-11ea-8621-cd7bbddae5f0.jpg" width="180" />
 <img src="https://user-images.githubusercontent.com/68644104/88424578-656fa880-ce0b-11ea-96b8-c8debeba3ab1.jpg" width="180" />
